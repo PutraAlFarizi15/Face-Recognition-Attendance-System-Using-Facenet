@@ -1,7 +1,7 @@
 # Face Recognition Attendance System Using Facenet
 
 ## Deskripsi Proyek
-Proyek ini bertujuan untuk mengembangkan sistem Face Recognition yang akan terintegrasi dengan sistem absensi yang sudah ada, sehingga memungkinkan pencatatan kehadiran karyawan secara otomatis saat wajah mereka terdeteksi.
+Proyek ini bertujuan untuk membangun sistem absensi berbasis pengenalan wajah yang menggunakan teknologi FaceNet. Sistem ini dirancang untuk menggantikan metode absensi manual dengan cara yang lebih cepat, akurat, dan aman. Teknologi FaceNet memungkinkan sistem untuk mengenali dan memverifikasi identitas individu melalui analisis wajah mereka, yang kemudian digunakan untuk mencatat kehadiran.
 
 ## Table of Contents
 - [Rancangan Database dan Data Pipeline](#rancangan-database-dan-data-pipeline)
